@@ -1,1 +1,2 @@
 # Threejs
+```npm install```
